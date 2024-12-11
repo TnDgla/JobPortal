@@ -82,7 +82,6 @@ To build a robust job portal application with intuitive features that connect jo
 ![image](https://github.com/user-attachments/assets/1dfa0ef6-130a-4671-9099-e0c26c28db87)
 ![image](https://github.com/user-attachments/assets/e974bb93-7c61-4208-af25-153526b32fd7)
 ![image](https://github.com/user-attachments/assets/12e52e5d-cec9-4ada-9a09-39ba8fffa197)
-![image](https://github.com/user-attachments/assets/05042788-e8ba-4704-bcd9-b2a4350bfaba)
 
 ---
 
