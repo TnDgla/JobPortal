@@ -72,6 +72,17 @@ To build a robust job portal application with intuitive features that connect jo
 1. **Heroku/AWS**
    - **Why:** Scalable and reliable cloud hosting platforms.
    - **Use Case:** Deploys the application backend and frontend.
+  
+![image](https://github.com/user-attachments/assets/f1b7bbc5-e769-4720-afdc-02a55650abe0)
+![image](https://github.com/user-attachments/assets/50ab26d3-607a-4fa0-96b7-5e00178e389a)
+![image](https://github.com/user-attachments/assets/89dae256-e8c1-419a-87bc-693fbb3610d0)
+![image](https://github.com/user-attachments/assets/b97253ef-6a20-474a-aeb7-7260cca70be4)
+![image](https://github.com/user-attachments/assets/f18f6a6a-db18-4dd5-b4b4-79ffe0af4e4d)
+![image](https://github.com/user-attachments/assets/5820be5b-90fe-4ec1-bee5-94dc4ca9d164)
+![image](https://github.com/user-attachments/assets/1dfa0ef6-130a-4671-9099-e0c26c28db87)
+![image](https://github.com/user-attachments/assets/e974bb93-7c61-4208-af25-153526b32fd7)
+![image](https://github.com/user-attachments/assets/12e52e5d-cec9-4ada-9a09-39ba8fffa197)
+![image](https://github.com/user-attachments/assets/05042788-e8ba-4704-bcd9-b2a4350bfaba)
 
 ---
 
